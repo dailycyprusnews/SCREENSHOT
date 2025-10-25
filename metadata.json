@@ -1,0 +1,5 @@
+{
+  "name": "Receipt Preview Generator",
+  "description": "An application that allows users to input transaction details and generate a visually accurate preview of a receipt, based on a specific HTML/CSS template. Users can then download the generated preview as a PNG image.",
+  "requestFramePermissions": []
+}
